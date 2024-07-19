@@ -2,7 +2,8 @@
 
 ## Summary  
 
-This is a personal project and the goal is to practice and gain knowledge on the used of LLM models.  
+This is a personal project and the goal is to practice and gain knowledge on the used of LLM models. 
+For simplicity's sake and out of curiosity I developped everything in local. 
 The idea here is to use the CEAS_08 dataset to fine tune the distilbert model to classify email.  
 This model works only with email written in english because the dataset is in english.  
 Find below the key point of this project:
